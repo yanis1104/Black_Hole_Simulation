@@ -9,7 +9,7 @@ This programm generates a set of 375 images (PNG) representing the distortion of
 This programm works with some equations of the general relativity.
 
 Prerequisites:
-- The graphic library used is SFML. You have to install it before running the programm.
+- The graphic library used is SFML. You have to install it before running the program.
   https://www.sfml-dev.org/download.php
 - You need about 6 GB of free space to store the 375 frames.
 
